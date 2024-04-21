@@ -22,4 +22,4 @@ In order to visually demonstrate the performance of each embedding technique, we
 
 ## Conclusion
 
-Our research highlights the importance of word embedding techniques in sentiment analysis tasks, with BERT showing superior accuracy and FastText and Word2Vec excelling in recall. These findings provide valuable insights for researchers and practitioners in sentiment analysis, with implications for understanding public opinion on social media platforms.
+Our research highlights the importance of word embedding techniques in sentiment analysis tasks, with BERT showing superior accuracy. These findings provide valuable insights for researchers and practitioners in sentiment analysis, with implications for understanding public opinion on social media platforms.
